@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+# Do not commit raw network traffic datasets
+cicids2017*.csv
+CICIDS2017*.csv
+# Notebook checkpoints
+.ipynb_checkpoints/
